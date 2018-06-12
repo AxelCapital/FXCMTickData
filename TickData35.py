@@ -14,7 +14,7 @@ import datetime
 
 url = 'https://tickdata.fxcorporate.com/'##This is the base url 
 url_suffix = '.csv.gz' ##Extension of the file name
-symbol = 'EURUSD' ##symbol we want to get tick data for
+symbol = 'AUDCAD' ##symbol we want to get tick data for
 ##Available Currencies 
 ##AUDCAD,AUDCHF,AUDJPY, AUDNZD,CADCHF,EURAUD,EURCHF,EURGBP
 ##EURJPY,EURUSD,GBPCHF,GBPJPY,GBPNZD,GBPUSD,GBPCHF,GBPJPY
